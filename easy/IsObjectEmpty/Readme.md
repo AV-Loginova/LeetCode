@@ -1,3 +1,4 @@
+# task
 Given an object or an array, return if it is empty.
 
 An empty object contains no key-value pairs.
@@ -26,3 +27,6 @@ Explanation: The array has 3 elements so it is not empty.
 Constraints:
 
  2 <= JSON.stringify(obj).length <= 105
+# pic
+![q](https://github.com/AV-Loginova/LeetCode/blob/main/easy/IsObjectEmpty/image.png?raw=true)
+<img width="1141" alt="table" src="https://github.com/AV-Loginova/LeetCode/assets/129111624/e3cdee38-9d02-441d-943f-8ed1803fce93">
