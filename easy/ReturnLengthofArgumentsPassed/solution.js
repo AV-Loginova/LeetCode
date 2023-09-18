@@ -2,6 +2,7 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
+    //возвращаем длину аргумента
     return args.length
   };
   
