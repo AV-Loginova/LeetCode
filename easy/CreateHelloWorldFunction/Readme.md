@@ -1,3 +1,4 @@
+# task
 Write a function createHelloWorld. It should return a new function that always returns "Hello World".
  
 
@@ -24,3 +25,7 @@ Any arguments could be passed to the function but it should still always return 
 Constraints:
 
 0 <= args.length <= 10
+
+# pic
+![Q](https://github.com/AV-Loginova/LeetCode/blob/main/easy/CreateHelloWorldFunction/image.png?raw=true)
+<img width="1139" alt="table" src="https://github.com/AV-Loginova/LeetCode/assets/129111624/e88284f3-0288-4303-80b7-d9bb490054d6">
