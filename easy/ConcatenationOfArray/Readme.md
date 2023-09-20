@@ -29,5 +29,6 @@ n == nums.length
 1 <= n <= 1000
 1 <= nums[i] <= 1000
 
-#pic
+# pic
 ![!](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/ConcatenationOfArray/image.png?raw=true)
+![1](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/ConcatenationOfArray/table.png?raw=true)
