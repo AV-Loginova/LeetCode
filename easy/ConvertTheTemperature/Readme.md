@@ -29,4 +29,5 @@ Constraints:
 
 # pic
 ![!](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/ConvertTheTemperature/image.png?raw=true)
+![!](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/ConvertTheTemperature/table.png?raw=true)
 
