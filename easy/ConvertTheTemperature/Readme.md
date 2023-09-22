@@ -28,3 +28,5 @@ Constraints:
 0 <= celsius <= 1000
 
 # pic
+![!](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/ConvertTheTemperature/image.png?raw=true)
+
