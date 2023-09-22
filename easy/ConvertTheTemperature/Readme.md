@@ -1,3 +1,4 @@
+# task
 You are given a non-negative floating point number rounded to two decimal places celsius, that denotes the temperature in Celsius.
 
 You should convert Celsius into Kelvin and Fahrenheit and return it as an array ans = [kelvin, fahrenheit].
@@ -25,3 +26,5 @@ Explanation: Temperature at 122.11 Celsius converted in Kelvin is 395.26 and con
 Constraints:
 
 0 <= celsius <= 1000
+
+# pic
