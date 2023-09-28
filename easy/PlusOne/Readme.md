@@ -32,8 +32,4 @@ Thus, the result should be [1,0].
 ![img](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/PlusOne/table.png?raw=true)
  
 
-Constraints:
 
-1 <= digits.length <= 100
-0 <= digits[i] <= 9
-digits does not contain any leading 0's.
