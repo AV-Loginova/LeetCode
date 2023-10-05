@@ -1,3 +1,4 @@
+## task
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 
 A word is a maximal 
@@ -28,3 +29,7 @@ Constraints:
 1 <= s.length <= 104
 s consists of only English letters and spaces ' '.
 There will be at least one word in s.
+
+## pic
+![x](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/LengthOfLastWord/image.png?raw=true)
+![s](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/LengthOfLastWord/table.png?raw=true)
