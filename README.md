@@ -10,3 +10,9 @@
 ### W3
 7) Concatenation of Array
 8) Convert the Temperature
+### W4 
+9) Palindrome Number
+10) Plus one
+### W5
+11) Length Of LastWord
+12) FizzBuzz
