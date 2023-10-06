@@ -10,6 +10,3 @@
 ### W3
 7) Concatenation of Array
 8) Convert the Temperature
-### W4
-9) PalindromeNumber
-10) PlusOne
