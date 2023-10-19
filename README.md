@@ -19,3 +19,6 @@
 ### W6
 13) Shuffle and Array
 14) Richest Customer Wealth
+### W7
+15) Check if a String Is an Acronym of Words
+16) Kids With The Greatest Number Of Candies
