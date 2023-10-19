@@ -18,3 +18,4 @@
 12) FizzBuzz
 ### W6
 13) Shuffle and Array
+14) Richest Customer Wealth
