@@ -1,3 +1,4 @@
+## task
 Given an array of strings words and a string s, determine if s is an acronym of words.
 
 The string s is considered an acronym of words if it can be formed by concatenating the first character of each string in words in order. For example, "ab" can be formed from ["apple", "banana"], but it can't be formed from ["bear", "aardvark"].
@@ -32,3 +33,7 @@ Constraints:
 1 <= words[i].length <= 10
 1 <= s.length <= 100
 words[i] and s consist of lowercase English letters.
+
+## pic 
+![w](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/CheckIfAStringIsAnAcronymOfWords/image.png?raw=true)
+![w](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/CheckIfAStringIsAnAcronymOfWords/table.png?raw=true)
