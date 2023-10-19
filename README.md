@@ -11,8 +11,10 @@
 7) Concatenation of Array
 8) Convert the Temperature
 ### W4
-9) PalindromeNumber
+9) Palindrome Number
 10) PlusOne 
 ### W5
 11) Length Of LastWord
 12) FizzBuzz
+### W6
+13) Shuffle and Array
