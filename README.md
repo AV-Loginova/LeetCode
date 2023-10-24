@@ -22,3 +22,6 @@
 ### W7
 15) Check if a String Is an Acronym of Words
 16) Kids With The Greatest Number Of Candies
+### W8
+17) Subtract The Product And Sum Of Digits Of An Integer
+18) Number of Good Pairs
