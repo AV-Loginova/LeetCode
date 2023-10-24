@@ -1,3 +1,5 @@
+
+## task
 Given an integer number n, return the difference between the product of its digits and the sum of its digits.
  
 
@@ -22,3 +24,6 @@ Result = 32 - 11 = 21
 Constraints:
 
 1 <= n <= 10^5
+## pic
+![w](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/SubtractTheProductAndSumOfDigitsOfAnInteger/image.png?raw=true)
+![s](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/SubtractTheProductAndSumOfDigitsOfAnInteger/table.png?raw=true)
