@@ -1,3 +1,5 @@
+## task
+
 Given a 0-indexed integer array nums of length n and an integer target, return the number of pairs (i, j) where 0 <= i < j < n and nums[i] + nums[j] < target.
  
 
@@ -25,6 +27,11 @@ Explanation: There are 10 pairs of indices that satisfy the conditions in the st
 - (3, 5) since 3 < 5 and nums[3] + nums[5] = -3 < target
 - (4, 5) since 4 < 5 and nums[4] + nums[5] = -8 < target
 - (4, 6) since 4 < 6 and nums[4] + nums[6] = -4 < target
+
+## pic
+
+![w](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/CountPairsWhoseSumIsLessThanTarget/image.png?raw=true)
+![s](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/CountPairsWhoseSumIsLessThanTarget/table.png?raw=true)
  
 
 Constraints:
