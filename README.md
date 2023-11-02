@@ -27,3 +27,5 @@
 16) Number of Good Pairs
 ### W9
 17) Running Sum of 1d Array
+18) Count Pairs Whose Sum is Less than Target
+
