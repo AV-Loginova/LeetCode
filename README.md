@@ -28,4 +28,6 @@
 ### W9
 17) Running Sum of 1d Array
 18) Count Pairs Whose Sum is Less than Target
-
+### W10 
+19) Two Sum
+20) Sum of Values at Indices With K Set Bits
