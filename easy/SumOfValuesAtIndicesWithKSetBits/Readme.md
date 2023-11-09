@@ -1,3 +1,4 @@
+## task
 You are given a 0-indexed integer array nums and an integer k.
 
 Return an integer that denotes the sum of elements in nums whose corresponding indices have exactly k set bits in their binary representation.
@@ -30,6 +31,9 @@ Explanation: The binary representation of the indices are:
 3 = 112
 Only index 3 has k = 2 set bits in its binary representation.
 Hence, the answer is nums[3] = 1.
+## pic
+![d](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/SumOfValuesAtIndicesWithKSetBits/image.png?raw=true)
+![s](https://github.com/AV-Loginova/LeetCode/blob/easy/easy/SumOfValuesAtIndicesWithKSetBits/table.png?raw=true)
  
 
 Constraints:
