@@ -1,3 +1,4 @@
+## task
 Given head which is a reference node to a singly-linked list. The value of each node in the linked list is either 0 or 1. The linked list holds the binary representation of a number.
 
 Return the decimal value of the number in the linked list.
@@ -21,3 +22,6 @@ Constraints:
 The Linked List is not empty.
 Number of nodes will not exceed 30.
 Each node's value is either 0 or 1.
+## pic 
+![w](https://github.com/AV-Loginova/LeetCode/blob/main/TS/ConvertBinaryNumberInALinkedListToInteger/image.png?raw=true)
+![w](https://github.com/AV-Loginova/LeetCode/blob/main/TS/ConvertBinaryNumberInALinkedListToInteger/table.png?raw=true)
