@@ -1,3 +1,4 @@
+## task
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 
  
@@ -22,3 +23,6 @@ Constraints:
 
 The number of nodes in the list is the range [0, 5000].
 -5000 <= Node.val <= 5000
+## pic
+![w](https://github.com/AV-Loginova/LeetCode/blob/main/TS/ReverseLinkedList/image.png?raw=true)
+![w](https://github.com/AV-Loginova/LeetCode/blob/main/TS/ReverseLinkedList/table.png?raw=true)
