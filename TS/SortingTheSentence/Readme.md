@@ -1,3 +1,4 @@
+## task
 A sentence is a list of words that are separated by a single space with no leading or trailing spaces. Each word consists of lowercase and uppercase English letters.
 
 A sentence can be shuffled by appending the 1-indexed word position to each word then rearranging the words in the sentence.
@@ -26,3 +27,7 @@ s consists of lowercase and uppercase English letters, spaces, and digits from 1
 The number of words in s is between 1 and 9.
 The words in s are separated by a single space.
 s contains no leading or trailing spaces.
+
+## pic
+![w](https://github.com/AV-Loginova/LeetCode/blob/main/TS/SortingTheSentence/image.png?raw=true)
+![w](https://github.com/AV-Loginova/LeetCode/blob/main/TS/SortingTheSentence/table.png?raw=true)
