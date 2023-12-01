@@ -34,3 +34,6 @@
 ## The list of tasks (TS):
 1) Reverse Linked List
 2) Convert Binary Number In A Linked List To Integer
+3) Middle of the Linked List
+4) Sorting The Sentence
+
