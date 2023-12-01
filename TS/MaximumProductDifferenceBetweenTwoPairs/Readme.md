@@ -1,3 +1,4 @@
+## task
 The product difference between two pairs (a, b) and (c, d) is defined as (a * b) - (c * d).
 
 For example, the product difference between (5, 6) and (2, 7) is (5 * 6) - (2 * 7) = 16.
@@ -19,3 +20,6 @@ Input: nums = [4,2,5,9,7,4,8]
 Output: 64
 Explanation: We can choose indices 3 and 6 for the first pair (9, 8) and indices 1 and 5 for the second pair (2, 4).
 The product difference is (9 * 8) - (2 * 4) = 64.
+## pic
+![q](https://github.com/AV-Loginova/LeetCode/blob/main/TS/MaximumProductDifferenceBetweenTwoPairs/image.png?raw=true)
+![w](https://github.com/AV-Loginova/LeetCode/blob/main/TS/MaximumProductDifferenceBetweenTwoPairs/table.png?raw=true)
