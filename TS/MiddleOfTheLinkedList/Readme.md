@@ -1,3 +1,4 @@
+## task
 Given the head of a singly linked list, return the middle node of the linked list.
 
 If there are two middle nodes, return the second middle node.
@@ -22,3 +23,6 @@ Constraints:
 
 The number of nodes in the list is in the range [1, 100].
 1 <= Node.val <= 100
+## pic 
+![w](https://github.com/AV-Loginova/LeetCode/blob/main/TS/MiddleOfTheLinkedList/image.png?raw=true)
+![w](https://github.com/AV-Loginova/LeetCode/blob/main/TS/MiddleOfTheLinkedList/table.png?raw=true)
