@@ -32,6 +32,7 @@
 19) Two Sum
 20) Sum of Values at Indices With K Set Bits
 ## The list of tasks (TS):
+### W1
 1) Reverse Linked List
 2) Convert Binary Number In A Linked List To Integer
 3) Middle of the Linked List
